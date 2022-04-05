@@ -3,7 +3,7 @@
 [Software Linter](https://alx-intranet.hbtn.io/concepts/542)
 ## Resources
 - [ECMAScript 6 - ECMAScript 2015](https://www.w3schools.com/js/js_es6.asp)
-= [Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
+- [Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
 - [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 - [Default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
 - [Rest parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
@@ -14,8 +14,8 @@
 - All your files should end with a new line
 - A README.md file, at the root of the folder of the project, is mandatory
 - Your code should use the js extension
-- Your code will be tested using the Jest Testing Framework
-- Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide
+- Your code will be tested using the [Jest Testing Framework](https://jestjs.io/)
+- Your code will be analyzed using the linter [ESLint](https://eslint.org/) along with specific rules that we’ll provide
 - All of your functions must be exported
 ## Setup
 ### Install NodeJS 12.11.x

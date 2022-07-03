@@ -20,6 +20,7 @@ module.exports = {
   rules: {
     'no-console': 'off',
     'no-shadow': 'off',
+    'linebreak-style': ["error", "windows"],
     'no-restricted-syntax': [
       'error',
       'LabeledStatement',
